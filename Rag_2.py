@@ -6,7 +6,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-api_token = "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"
+api_token = ""
 
 headers = {
     "Authorization": f"Bearer {api_token}"
